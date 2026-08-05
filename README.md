@@ -2,7 +2,7 @@
 
 **Same items. Different total. Why?**
 
-**Live prototype:** https://learningdesignprototype.streamlit.app/
+**Live prototype:** https://app-l-d-prototype.streamlit.app/
 **Repository:** https://github.com/mikayla-a-mitchell/Split-Decision/tree/main
 
 ## Overview
