@@ -2,8 +2,9 @@
 
 **Same items. Different total. Why?**
 
-**Live prototype:** https://app-l-d-prototype.streamlit.app/
-**Repository:** https://github.com/mikayla-a-mitchell/Split-Decision/tree/main
+**Live prototype:** [app-l-d-prototype.streamlit.app](https://app-l-d-prototype.streamlit.app/) (select **Split Decision**)  
+**Design brief:** [split-decision-design-brief.md](split-decision-design-brief.md)  
+**Playtest guide:** [split-decision-playtest-guide.md](split-decision-playtest-guide.md)
 
 ## Overview
 
@@ -59,11 +60,13 @@ This prototype was created to explore:
 - Structural explanations after numerical testing
 - Responsive, all-age visual design
 
-## File
+## Files
 
-- `split-decision.html` — standalone interactive prototype
+- [`split-decision.html`](split-decision.html): standalone interactive prototype (download and open in any browser)
+- [`split-decision-design-brief.md`](split-decision-design-brief.md): backward-design brief and misconception map
+- [`split-decision-playtest-guide.md`](split-decision-playtest-guide.md): usability and learning playtest protocol
 
 ## Portfolio note
 
-Split Decision is an independent portfolio prototype. It was not commissioned by or created for Brilliant. It demonstrates how I revise an interaction when playtesting or critique reveals that a representation is mathematically sound but not sufficiently familiar or meaningful to learners.
+Split Decision is an independent portfolio prototype. It demonstrates how I revise an interaction when playtesting or critique reveals that a representation is mathematically sound but not sufficiently familiar or meaningful to learners.
 
